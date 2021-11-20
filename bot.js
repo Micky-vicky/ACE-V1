@@ -139,7 +139,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('✅ jinusir bot working!')
+            chalk.green.bold('✅ ANUSER bot working!')
         );
         await new Promise(r => setTimeout(r, 1100));
 
@@ -383,8 +383,8 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '*~_________~ *JINUSIR ERROR FOUND!* ~______~*' +
-                                    '\n\n*🧞‍♂️ ' + error + '*\n\n```*any doubt message instagram:* https://instagram.com/jinu__777?utm_medium=copy_link \n Report errors\njoin wa group  \n https://chat.whatsapp.com/BXmi7So4IbDKyvV3WaB7iI``` ' 
+                                await conn.sendMessage(conn.user.jid, '*~_________~ *ANUSER ERROR FOUND!* ~______~*' +
+                                    '\n\n*🧞‍♂️ ' + error + '*\n\n```*any doubt message instagram:* https://instagram.com/anshid__8055?utm_medium=copy_link \n Report errors\njoin wa group  \n https://chat.whatsapp.com/CTqoTm0dnX8FsNmaFRYmJ4``` ' 
                                     , MessageType.text);
                             }
                         }
