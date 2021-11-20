@@ -1,24 +1,24 @@
-<a href="https://bit.ly/3koZRGY"><img src="https://i.ibb.co/MnW7T9h/20211117-205913.png" alt="google-font" border="0"></a>
+
 <div align="center">
-        <img src="https://i.ibb.co/hWQ83gj/20211117-202942.jpg" alt="GIF" width="250" height="250"/>
+        <img src="ANUSER 2.jpg" alt="GIF" width="250" height="250"/>
 </p>
 
 <div align="center">
 
-## [![JINU](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=FFA500&lines=Welcome+to+jinusir+WA+Bot+repo;Created+by+jinusir+jinu;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
+## [![JINU](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=FFA500&lines=Welcome+to+ACE-V1+WA+Bot+repo;Created+by+ANUSER;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
 
  </a>
 </p>
 <div align="center">
  <p align="center">
-<a href="#"><img title="JINUSIR V.2" src="https://img.shields.io/badge/JINUSIR-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="ANUSER1" src="https://img.shields.io/badge/ANUSER-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/jinusirV2/jinusir_bot"><img title="Author" src="https://img.shields.io/badge/Author-jinusir-jinu/jinusir_bot?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/ANUSER1/ACE-V1"><img title="Author" src="https://img.shields.io/badge/Author-ANUSER1/ACE-V1?color=black&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/jinusirV2">jinusir-jinu</a> to make it public
+Project created by <a href="https://github.com/ANUSER1">ANUSER</a> to make it public
     <br>
        | © |
         Reserved |
@@ -29,7 +29,7 @@ Project created by <a href="https://github.com/jinusirV2">jinusir-jinu</a> to ma
 
 <h3 align="center">Contact Me:</h3>
 <p align="center">
-<a href="https://instagram.com/jinu__777?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
+<a href="https://instagram.com/anshid__8055?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
 </p>
 
 
@@ -42,7 +42,7 @@ Project created by <a href="https://github.com/jinusirV2">jinusir-jinu</a> to ma
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/BXmi7So4IbDKyvV3WaB7iI" target="blank"><img align="center" src="https://www.linkpicture.com/q/image-removebg-preview-9_2.png" alt="kyrie.baran" height="200" width="300" /></a>
+  <a href="https://chat.whatsapp.com/CTqoTm0dnX8FsNmaFRYmJ4" target="blank"><img align="center" src="https://www.linkpicture.com/q/image-removebg-preview-9_2.png" alt="kyrie.baran" height="200" width="300" /></a>
 </p>
 
 
@@ -52,9 +52,9 @@ Click WA logo to Join Support Group 👇
 
   ### Simple Method
   
-[![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@jinuSir1/jinusirbotv2#index.js)
+[![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@ANUSER1/ACE-V1#index.js)
 
-[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/jinusirV2/jinusir_bot.git)
+[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/ANUSER1/ACE-V1.git)
      </div>
 <br>
 <br >
@@ -74,8 +74,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/jinusirV2/jinusir_bot
-$ cd jinusir_bot
+$ git clone https://github.com/ANUSER1/ACE-V1
+$ cd ACE-V1
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -84,8 +84,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/jinusirV2/jinusir_bot
-$ cd jinusir_bot
+$ git clone https://github.com/ANUSER1/ACE-V1
+$ cd ACE-V1
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -98,15 +98,15 @@ $ node bot.js
 ```
 Due to Whatsapp bot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
-Absolutely, jinusir executives do not accept responsibility.
-By establishing the jinusir, you are deemed to have accepted these responsibilities.
+Absolutely, ANUSER😎 executives do not accept responsibility.
+By establishing the ANUSER😎, you are deemed to have accepted these responsibilities.
 ```
 
 ## Developer
   <div align="center">
     
-  [![jinusir-jinu](https://i.ibb.co/84YRTC6/20211117-202303.jpg?size=100)](https://instagram.com/jinu__777?utm_medium=copy_link) |  
-----|----|----
+  <a href="https://ibb.co/wS13wRr"><img src="https://i.ibb.co/CbFNMzs/IMG-20211110-WA0004.jpg" alt="IMG-20211110-WA0004" border="0"></a><br /><a 
+---|----|----
 
 
 
