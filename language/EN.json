@@ -186,7 +186,7 @@
             "SONG_DESC": "Uploads the song you wrote.",
             "NEED_TEXT_SONG": "*Please write a song!*\n*Example:* ```.song Naadan Vibe```",
             "NO_RESULT": "*I couldn't find anything :(*",
-            "DOWNLOADING_SONG": "\n*Song ippo taram jinu thappikondirikkuva 🎶*\n",
+            "DOWNLOADING_SONG": "\n*Song ippo taram ANUSER thappikondirikkuva 🎶*\n",
             "UPLOADING_SONG": "\n*🎵song inna pidicho ⚡️*\n",
             "VIDEO_DESC": "Downloads video from YouTube.",
             "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://www.youtube.com/watch?v=nAFlVm5qeBc```",
@@ -217,13 +217,13 @@
         "updater": {
             "UPDATER_DESC": "Checks the update.",
             "UPDATE": "*Your bot this time no update available!*",
-            "NEW_UPDATE": "*jinusir bot Update Available*\n\n please join WhatsApp group. error problem maximum oyivaakkam\n entelum doubt undel insta yil message ayakk https://instagram.com/jinu__777?utm_medium=copy_link \n https://chat.whatsapp.com/BXmi7So4IbDKyvV3WaB7iI \n\nChanges:\n```",
+            "NEW_UPDATE": "*ANUSER bot Update Available*\n\n please join WhatsApp group. error problem maximum oyivaakkam\n entelum doubt undel insta yil message ayakk https://instagram.com/anshid__8055?utm_medium=copy_link \n https://chat.whatsapp.com/CTqoTm0dnX8FsNmaFRYmJ4 \n\nChanges:\n```",
             "UPDATE_NOW_DESC": "It makes updates.",
             "UPDATING": "```Updating..💤```",
             "INVALID_HEROKU": "*❌ Your Heroku information is wrong!*",
             "UPDATED": "*Updated 🤠✅*",
             "UPDATED_LOCAL": "*✅ Successfully Updated!*",
-            "AFTER_UPDATE": "*😎 jinusir bot Restarting*"
+            "AFTER_UPDATE": "*😎 ANUSER bot Restarting*"
         },
         "weather": {
             "WEATHER_DESC": "Shows the weather.",
