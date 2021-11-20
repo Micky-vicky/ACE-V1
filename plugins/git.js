@@ -7,21 +7,20 @@ const Lang = Language.getString('wallpaper');
 
 Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the bot"}, (async (message, match) => {
 
-    var skl = await axios.get("https://i.ibb.co/hWQ83gj/20211117-202942.jpg", { responseType: 'arraybuffer' })
+    var skl = await axios.get("https://i.ibb.co/mzS0HXx/ANUSER-2.jpg", { responseType: 'arraybuffer' })
 
     await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `*THIS BOT CREATED BY JINUSIR*
 ─────────────────────────────────────────────────────────────────
-*GITHUB LINK: https://github.com/jinusirV2/jinusir_bot*
+*GITHUB LINK: https://github.com/ANUSER1/ACE-V1*
 
-*CREATER INSTA: https://instagram.com/jinu__777?utm_medium=copy_link*
+*CREATER INSTA: https://instagram.com/anshid__8055?utm_medium=copy_link*
 
-*CREATER WA NUMBER:    http://wa.me/+917356624702*
+*CREATER WA NUMBER:    http://wa.me/+916238560742*
 
-*JINUSIR WA GROUP:   https://chat.whatsapp.com/BXmi7So4IbDKyvV3WaB7iI*
+*ANUSER WA GROUP:      https://chat.whatsapp.com/CTqoTm0dnX8FsNmaFRYmJ4*
 
-*JINUSIR MOVIE WEBSITE: www.jinmovies.ga*
 
-       *JINUSIR BOT V.3 COMING SOON*
+       *ANUSER BOT V.2 COMING SOON*
 
 
 `}) 
