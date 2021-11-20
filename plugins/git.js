@@ -9,7 +9,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the
 
     var skl = await axios.get("https://i.ibb.co/mzS0HXx/ANUSER-2.jpg", { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `*THIS BOT CREATED BY JINUSIR*
+    await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `*THIS BOT CREATED BY ANUSER😎*
 ─────────────────────────────────────────────────────────────────
 *GITHUB LINK: https://github.com/ANUSER1/ACE-V1*
 
