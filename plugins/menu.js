@@ -10,7 +10,7 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
     var r_text = new Array ();
     
     
-    r_text[0] = "https://i.ibb.co/hWQ83gj/20211117-202942.jpg";
+    r_text[0] = "https://i.ibb.co/mzS0HXx/ANUSER-2.jpg";
     
     
     var i = Math.floor(1*Math.random())
@@ -22,9 +22,9 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 
 ━━━━━⛦
 
-*HELLO 👋 IAM JINUSIR BOT.*
+*HELLO 👋 IAM ANUSER'S BOT.*
 
-            *JINUSIR*
+            *ACE-V1*
 
 ■□■□■□■□■□■□■□■□■□■□
 
@@ -248,7 +248,7 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 
 ■□■□■□■□■□■□■□■□■□■□
 
-═════💢*BYJINUSIR*💢═════
+═════💢*BY ANUSER😎*💢═════
 
 
 
