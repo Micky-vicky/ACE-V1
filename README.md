@@ -6,7 +6,7 @@
 
 <div align="center">
 
-## [![ANUSER](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=FFA500&lines=Welcome+to+ACE-V1+WA+Bot+repo;Created+by+ANUSER;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
+## ![ANUSER](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=FFA500&lines=Welcome+to+ACE-V1+WA+Bot+repo;Created+by+ANUSER;This+is+the+Best++Bgm+bot;With+more+features)
 
  </a>
 </p>
