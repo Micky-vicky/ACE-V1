@@ -30,7 +30,7 @@ Project created by <a href="https://github.com/ANUSER1">ANUSER</a> to make it pu
 
 <h3 align="center">Contact Me:</h3>
 <p align="center">
-<a href="https://instagram.com/0_anshid_0?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
+<a href="https://instagram.com/_0anshid0_?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
 </p>
 
 
