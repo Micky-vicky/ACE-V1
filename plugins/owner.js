@@ -18,7 +18,7 @@ if (Config.WORKTYPE == 'private') {
         }
 
         if (Config.PLK == 'default') {
-            await message.client.sendMessage(message.jid,'ACE-V1 BOT CREATED BY *ANUSER😎*' , MessageType.text);
+            await message.client.sendMessage(message.jid,'𝐀𝐂𝐄 𝐁𝐎𝐓 𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐁𝐘 ꧁𝐀𝐍𝐒𝐇𝐈𝐃꧂*' , MessageType.text);
         }
         else {
             await message.client.sendMessage(message.jid,Config.PLK + '\n\n---------------------', MessageType.text);
@@ -36,7 +36,7 @@ else if (Config.WORKTYPE == 'public') {
         }
 
         if (Config.PLK == 'default') {
-            await message.client.sendMessage(message.jid,'ACE-V1 CREATED BY ANUSER😎*' , MessageType.text);
+            await message.client.sendMessage(message.jid,'𝐀𝐂𝐄 𝐁𝐎𝐓 𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐁𝐘 ꧁𝐀𝐍𝐒𝐇𝐈𝐃꧂*' , MessageType.text);
         }
         else {
             await message.client.sendMessage(message.jid,Config.PLK + '*HE IS MY BOSS*', MessageType.text);
